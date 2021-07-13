@@ -5,11 +5,13 @@
 
 # Step 1:
 # Create dockerpath
-# dockerpath=<your docker ID/path>
+# dockerpath=e13958e13d42
 
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
-
+docker login --username melsayed7
+docker tag melsayed-mlapi melsayed7/ml-microservices-udacity:latest
 # Step 3:
 # Push image to a docker repository
+docker push melsayed7/ml-microservices-udacity:latest
