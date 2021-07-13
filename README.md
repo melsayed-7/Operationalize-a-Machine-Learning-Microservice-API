@@ -1,5 +1,6 @@
 
 <include a CircleCI status badge, here>
+<img src="https://circleci.com/gh/moustafa-7/Operationalize-a-Machine-Learning-Microservice-API.png?circle-token=6c8202d8de0efd30a363c9906c2055043a9ce15f">
 
 ## Project Overview
 
