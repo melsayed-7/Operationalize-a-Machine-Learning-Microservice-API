@@ -1,4 +1,4 @@
-<img src="https://circleci.com/gh/moustafa-7/Operationalize-a-Machine-Learning-Microservice-API.png?circle-token=6c8202d8de0efd30a363c9906c2055043a9ce15f">
+<img src="https://circleci.com/gh/moustafa-7/Operationalize-a-Machine-Learning-Microservice-API.png?circle-token=4bc7183b2e952100f5ccebac4184e4802b6dbd82">
 
 ## Project Overview
 
